@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="action-links.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="ajax.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="cache.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="cache.plugin-type.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="cleanstring.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="collapsible.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="content.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="content.menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="content.plugin-type.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="content.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context-access-admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context-admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context-task-handler.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context.menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context.plugin-type.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="context.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="css.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="dependent.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="dropbutton.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="dropdown.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="export-ui.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="export-ui.menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="export-ui.plugin-type.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="export.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="fields.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="jump-menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="language.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="math-expr.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="modal.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="object-cache.cron.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="object-cache.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="page-wizard.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="page-wizard.menu.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="plugins-admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="plugins.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="registry.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="stylizer.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="stylizer.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="utility.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="views.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="wizard.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+<file name="wizard.theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419600000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandHandlerBase.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="CopyFiles.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="CreateFolder.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="DeleteFile.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="DeleteFolder.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="DownloadFile.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="FileUpload.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="GetFiles.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="GetFolders.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="Init.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="LoadCookies.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="MoveFiles.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="QuickUpload.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="RenameFile.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="RenameFolder.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="Thumbnail.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+<file name="XmlCommandHandlerBase.php" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129793244980000000" remote="130319419470000000" Dst="1" />
+</dwsync>

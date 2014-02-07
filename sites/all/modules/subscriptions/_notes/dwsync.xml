@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.txt" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="LICENSE.txt" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129607698190000000" remote="130319419870000000" Dst="1" />
+<file name="README.txt" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.coder_ignores.txt" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.install" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions.tokens.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_blog_ui.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_blog_ui.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.install" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.notify.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_content.tokens.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.cron.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.install" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.mail_edit.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.templates.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_mail.tokens.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_tableselect.js" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_taxonomy.admin.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_taxonomy.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_taxonomy.install" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_taxonomy.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_taxonomy.tokens.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_ui.info" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962854540000000" remote="130319419870000000" Dst="1" />
+<file name="subscriptions_ui.module" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="129962841220000000" remote="130319419870000000" Dst="1" />
+</dwsync>

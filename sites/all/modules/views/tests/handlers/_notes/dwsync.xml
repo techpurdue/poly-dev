@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_area_text.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419930000000" Dst="1" />
+<file name="views_handler_argument_null.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419930000000" Dst="1" />
+<file name="views_handler_argument_string.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419930000000" Dst="1" />
+<file name="views_handler_field.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419930000000" Dst="1" />
+<file name="views_handler_field_boolean.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419930000000" Dst="1" />
+<file name="views_handler_field_counter.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_custom.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_date.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_file_size.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_math.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_url.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_field_xss.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_combine.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_date.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_equality.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_in_operator.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_numeric.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_filter_string.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_sort.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_sort_date.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+<file name="views_handler_sort_random.test" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014300000000" remote="130319419940000000" Dst="1" />
+</dwsync>

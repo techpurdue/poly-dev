@@ -1,0 +1,11 @@
+name = Taxonomy Term Breadcrumb Parent
+description = Adds an item (skunkworks) to the breadcrumb trail for taxonomy terms.
+package = Custom Modules
+core = 7.x
+
+; Information added by Matt on 2013-11-05
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "taxonomy_term_breadcrum_parent"
+datestamp = "1354755537"
+

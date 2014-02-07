@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="compare_users.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="context_exists.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="entity_bundle.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="entity_field_value.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="front.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="node.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419610000000" Dst="1" />
+<file name="node_access.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="node_language.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="node_status.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="node_type.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="path_visibility.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="perm.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="php.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="role.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="site_language.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="string_equal.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="string_length.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="term.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="term_has_parent.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="term_parent.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="term_vocabulary.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+<file name="theme.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130143014280000000" remote="130319419620000000" Dst="1" />
+</dwsync>

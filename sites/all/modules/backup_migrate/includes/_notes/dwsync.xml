@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="backup_migrate.drush.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="crud.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="destinations.browser.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="destinations.db.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="destinations.db.mysql.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="destinations.email.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="destinations.file.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="destinations.ftp.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="destinations.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="destinations.nodesquirrel.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844125404" remote="130319419300000000" Dst="1" />
+<file name="destinations.s3.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844125404" remote="130319419300000000" Dst="1" />
+<file name="files.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844125404" remote="130319419300000000" Dst="1" />
+<file name="filters.backup_restore.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844125404" remote="130319419300000000" Dst="1" />
+<file name="filters.compression.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="filters.encryption.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="filters.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="filters.statusnotify.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="filters.utils.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+<file name="profiles.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844145405" remote="130319419300000000" Dst="1" />
+<file name="schedules.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130265779844135404" remote="130319419300000000" Dst="1" />
+</dwsync>

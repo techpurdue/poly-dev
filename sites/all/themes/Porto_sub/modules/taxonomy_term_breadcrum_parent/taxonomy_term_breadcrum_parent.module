@@ -1,0 +1,21 @@
+<?php
+/**
+ * Put Breadcrumbs in a ul li structure and add descending z-index style to each <a href> tag.
+ */
+function porto_sub_breadcrumb($variables) {
+ $breadcrumb = $variables['breadcrumb'];
+ $title = drupal_get_title();
+ $crumbs = '';
+ 
+ if (!empty($breadcrumb)) {
+   $crumbs = '<ul class="breadcrumb">';
+   foreach($breadcrumb as $value) {
+     $crumbs .= '<li>'.$value.' <span class="divider">/</span></li> ';
+   }
+   $crumbs .= '<li class="active"></li>';
+   $crumbs .= '</ul>';
+    
+ }
+ return $crumbs;
+}
+?>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="fontyourface_ui.views_default.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296097355" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_enabled_yes_no.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379295707302" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_enable_disable.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296803360" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_font.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296411164" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_foundry.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296685672" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_license.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379295821773" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_preview.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379297038380" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_provider.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379297175434" remote="130319420050000000" Dst="1" />
+<file name="views_handler_field_fontyourface_tag_font_tid.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296290833" remote="130319420050000000" Dst="1" />
+<file name="views_handler_filter_fontyourface_foundry.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379295452218" remote="130319420050000000" Dst="1" />
+<file name="views_handler_filter_fontyourface_provider.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379295566482" remote="130319420050000000" Dst="1" />
+<file name="views_handler_filter_tag_font_tid.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296551562" remote="130319420050000000" Dst="1" />
+<file name="views_handler_relationship_fontyourface_tag.inc" server="lpvwebcot02.itap.purdue.edu//var/www/html/root/cot/" local="130262379296923728" remote="130319420050000000" Dst="1" />
+</dwsync>

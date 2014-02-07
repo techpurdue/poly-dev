@@ -1,0 +1,160 @@
+/*=======================================================================
+*** PORTO_SUB STYLE SHEET***
+========================================================================*/
+
+
+
+
+/******************************************************************************************
+
+IE Fixes 
+remove functionality for old browsers that don't support HTML5 features
+
+*******************************************************************************************/
+
+
+/******************
+home page fixes
+*******************/
+/*remove md slider (from home page)*/
+html.ie8 #block-md-slider-1 {display:none;}
+
+/*remove background images from home page (home-concept section)*/
+html.ie8 div.home-concept div.process-image,
+html.ie8 div.home-concept div.project-image {
+	background:none;
+}
+
+/*testimonial section on home page*/
+html.ie8 .testimonial {
+	background-color:#ff794d;
+}
+html.ie8 .testimonial-author .thumbnail img {
+	float: left;
+	max-width: 100px;
+	max-height: 100px;
+}
+
+/*flexible directional navigation on testimonials section*/
+html.ie8 .flexslider-top-title ul.flex-direction-nav{
+	top: -15px;
+}
+
+/**********************
+generic fixes for all pages
+**********************/
+
+/*remove social media links from header & footer*/
+html.ie8 .social-icons,
+html.ie8 #block-block-13 {
+	display:none;
+}
+
+/*fix search*/
+html.ie8 .search {float:right; width:250px;}
+html.ie8 .search .form-actions {float:right;}
+html.ie8 .search .form-item-search-block-form {float:left; margin-top:-5px}
+
+/*scroll-to-top hide for IE*/
+html.ie8 .scroll-to-top {display:none;}
+
+/*get in touch ribbon */
+html.ie8 .footer-ribon {display:none;}
+
+html.ie8 .main {border-top: 1px solid #666;}
+
+
+/******************************************
+
+Custom CSS for all browsers below
+
+******************************************/
+
+
+
+/******************
+Typography Changes
+*******************/
+h4 {margin:0px 0px 5px 0px;}
+h3 {margin:0px 0px 10px 0px;}
+h2 {margin:0px 0px 15px 0px;}
+
+
+/******************
+popular block thumbnails
+******************/
+.popular-thumbnail {float:left; margin-right:12px;}.popular-hr {clear:both; padding-top:1px;} .view-popular div.post-meta {font-size:.8em;}
+
+/*Social icon spacing (header&footer theme)*/
+ul.social-icons li {margin-right:5px;}
+
+/**********************
+generic fixes for all comments
+**********************/
+.comment-block .comment-content .row {margin-left: 0px !important;}
+
+/**********************
+Forum Author Blocks
+**********************/
+.forum-post-panel-sub .author-pane .picture {margin:0px;}
+.forum-post-panel-sub .author-pane .picture img {padding:0px 0px 10px 0px;}
+.forum-post-wrapper .author-pane {max-width:190px; float:left; border:1px solid #ccc;}
+.forum-post-panel-sub {clear:both; float:left; margin:10px 10px 10px 10px;}
+.forum-post-panel-sub .author-pane-contact, .forum-post-panel-sub .author-pane-admin {clear:both; float:left; margin-right:20px;}
+.forum-post-panel-main {clear:none;}
+.forum-post-wrapper .forum-post-panel-main {clear:none;}
+.forum-post-title {font-size:2em; padding: 10px 0px;}
+.forum-post-wrapper {background-color:#fbfbfb;}
+#forum-topic-list table.forum-table {width:100%;}
+
+/**********************
+skunkwork authors block
+**********************/
+.view-skunkwork-authors .views-row {margin-bottom: 10px;}
+
+/**********************
+skunkwork categories list
+**********************/
+#block-views-categories-block ul.nav-list.primary > li a {background-image:none; padding:8px 0px;}
+
+/**********************
+fixes for User Profile pages
+**********************/
+/*User Profile Pages (skunkworks author pages)*/
+.view-user-profile-page-view-blocks .views-table {width:100%; }
+.view-user-profile-page-view-blocks .views-table td{padding:10px; }
+.profile .user-picture {display:none;}
+/*author pane*/
+#block-block-30 {float:left; clear:both;}
+#block-views-b3d8afae5a7c441932609b8b380355c7,
+#block-views-9a45199a9d2a9a6643e2d0d65ebd3bf8 {margin-bottom:50px;}
+#block-views-b3d8afae5a7c441932609b8b380355c7 h2,
+#block-views-9a45199a9d2a9a6643e2d0d65ebd3bf8 h2 {margin-bottom:10px;}
+#block-views-9a45199a9d2a9a6643e2d0d65ebd3bf8 h3 {margin-bottom:0px;}
+
+/**********************
+fixes for Calendar views
+**********************/
+.view-calendar li.date-prev {right:85px !important}
+.view-calendar.view-display-id-block_2 .views-row {border-top:solid 1px #ccc; padding-top:10px; margin-top:10px;}
+.view-calendar.view-display-id-block_2 .views-row.views-row-last {border-bottom:solid 1px #ccc; padding-bottom:10px; margin-bottom:10px;}
+/*mini calendar single event block*/
+.view-id-calendar.view-display-id-block_3 tr td.today {background:none; border: 1px solid #538bb4;}
+.view-id-calendar.view-display-id-block_3 tr td.has-events {color: #ff794d; font-weight:bold;}
+.view-id-calendar.view-display-id-block_3 .date-heading h3 {text-align:left; margin-top:20px;}
+.view-id-calendar.view-display-id-block_3 .date-heading h3 a {color:#ddd;}
+.view-id-calendar.view-display-id-block_3 .date-nav.item-list {margin-bottom:0px; padding-bottom:.75em;}
+.view-id-calendar.view-display-id-block_3 .date-nav-wrapper .date-prev {
+	right: 50px !important;
+	}
+
+
+.calendar-calendar .month-view .full tr td.single-day.today {border-bottom:2px solid #538bb4}
+.calendar-calendar .month-view .full tr td.today, .calendar-calendar .month-view .full tr.odd td.today, .calendar-calendar .month-view .full tr.even td.today {border-left: 2px solid #538bb4;
+border-right: 2px solid #538bb4;}
+.calendar-calendar .month-view .full td.date-box.today {border-color: #538bb4;}
+.calendar-calendar .month-view .full td.single-day div.monthview, .calendar-calendar .week-view .full td.single-day div.weekview, .calendar-calendar .day-view .full td.single-day div.dayview {background: #e5eff6;}
+.calendar-calendar div.calendar {
+  border: none;
+  font-size: small;
+}
